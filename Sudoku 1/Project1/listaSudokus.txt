@@ -1,0 +1,5 @@
+1 sudoku1.txt
+2 sudoku2.txt
+3 sudoku3.txt
+4 sudoku4.txt
+-1

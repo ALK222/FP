@@ -1,0 +1,11 @@
+﻿  Casilla.cpp
+  Conjuntos.cpp
+  Juego.cpp
+  Jugador.cpp
+  ListaJugadores.cpp
+  Main.cpp
+  listaSudokus.cpp
+  Tablero.cpp
+  Generando código...
+c:\users\alex\desktop\ejercicios\fundamentos de la programación\sudoku 1\project1\listajugadores.cpp(164): warning C4715: 'buscar': no todas las rutas de acceso de control devuelven un valor
+  Project1.vcxproj -> C:\Users\Alex\Desktop\Ejercicios\Fundamentos de la programación\Sudoku 1\x64\Debug\Project1.exe

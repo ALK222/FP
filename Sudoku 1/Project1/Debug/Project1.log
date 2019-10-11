@@ -1,0 +1,6 @@
+﻿  Casilla.cpp
+e:\sudoku 1\project1\casilla.cpp(8): error C2572: 'rellenaCasilla': redefinition of default argument: parameter 1
+  e:\sudoku 1\project1\casilla.h(16): note: see declaration of 'rellenaCasilla'
+  Tablero.cpp
+  Generating Code...
+e:\sudoku 1\project1\tablero.cpp(36): error C4716: 'cargarTablero': must return a value
