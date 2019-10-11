@@ -1,0 +1,9 @@
+﻿  Algoritmos.cpp
+  Archivo.cpp
+e:\drive\universidad\ejercicios\fundamentos de la programación\fp07barrachinaalejandro\fp07barrachinaalejandro\archivo.cpp(50): warning C4101: 'pruebas': variable local sin referencia
+  Lista.cpp
+  Source.cpp
+e:\drive\universidad\ejercicios\fundamentos de la programación\fp07barrachinaalejandro\fp07barrachinaalejandro\source.cpp(21): warning C4305: 'inicializando': truncamiento de 'int' a 'char'
+e:\drive\universidad\ejercicios\fundamentos de la programación\fp07barrachinaalejandro\fp07barrachinaalejandro\source.cpp(21): warning C4309: 'inicializando': truncamiento de valor constante
+  Generando código...
+  FP07BarrachinaAlejandro.vcxproj -> E:\Drive\Universidad\Ejercicios\Fundamentos de la programación\FP07BarrachinaAlejandro\x64\Debug\FP07BarrachinaAlejandro.exe

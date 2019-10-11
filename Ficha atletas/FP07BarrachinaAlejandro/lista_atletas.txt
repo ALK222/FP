@@ -1,0 +1,6 @@
+19 9 1 1 Alberto Cervantes
+19 7 1 1 Alejandro Barrachina Argudo
+21 9 1 1 Cristian Epitie
+12 9 0 0 Juan Vazquez
+12 7 1 1 Pepe Ramirez
+-1
